@@ -14,5 +14,11 @@ install Dependencies
 5)npm cors
 6)npm react-router-dom
 
+Inclomplete
+TODO's
+Add form validation
+Add authentication
+Add tabs on the landing page instead of a full page spread.
+
 
 thanks to THENETNINJA
